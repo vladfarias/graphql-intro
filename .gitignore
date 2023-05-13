@@ -1,0 +1,14 @@
+# node
+node_modules
+
+# application build folder
+build
+
+
+# misc
+*.log
+*.zip
+tf-work
+build
+.env
+
